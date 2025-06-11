@@ -2,6 +2,8 @@
 
 A full-stack Web3-powered social media application with **RainbowKit-style wallet authentication** using ethers.js, built with React/Next.js frontend and NestJS backend.
 
+## Demo Video Link: https://go.screenpal.com/watch/cT1XQznXoiC
+
 ## 🚀 Features
 
 ### 🔐 **Wallet Authentication (RainbowKit-style)**
